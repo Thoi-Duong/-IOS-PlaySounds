@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0C8180B39861B073D0327E298CCB9CD73AC3CEC3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D15DC99B27373481AB939F41568A702FDADE3445" : 0,
+    "0C8180B39861B073D0327E298CCB9CD73AC3CEC3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "88C216D8-6EC9-4F01-BE5A-0A5A7BE37F16",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D15DC99B27373481AB939F41568A702FDADE3445" : "",
+    "0C8180B39861B073D0327E298CCB9CD73AC3CEC3" : "playSound\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "playSound",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "playSound.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dnhthooi\/-IOS-PlaySounds.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0C8180B39861B073D0327E298CCB9CD73AC3CEC3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dnhthooi\/IOSPlaySounds.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D15DC99B27373481AB939F41568A702FDADE3445"
+    }
+  ]
+}
